@@ -1,0 +1,33 @@
+Two Sig Specific study plan
+
+Coding
+1) All House Robber ones -> DONE, review the tree one
+2) All Buy Sell Stock ones -> DONE, review 3 and 4
+3) Hackerrank Friend Circle -> DFS on graph, review
+4) Hackerrank word chain
+5) Implement LRU and LFU cache
+6) Hackerrank String Chains
+    Possibly on leetcode also: https://leetcode.com/problems/longest-string-chain/
+7) Leetcode Maximum Subarray Sum of circular array - DONE, review the clever one, be able to explain
+    https://leetcode.com/problems/maximum-sum-circular-subarray/
+    Review Kadane's algorithm
+    Eh on this, review. Practice recursion logic, probably just memorize. This is also clever,
+    go with this
+    https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/1594720/Python3-Solution-with-using-two-pass-with-comments
+8) All LC two sig tagged
+    https://leetcode.com/problemset/all/?page=1&companySlugs=two-sigma
+9) Know recursion
+10) Study as much top 100 as possible
+11) Study as much blind top 75 as possible
+12) review python syntax
+13) closes city in a coordinate system
+14) Huffman Coding
+15) Implementing a Compiler, take a file with dependencies and time, output optimal build order
+16) All Power of two, three, four family
+
+Tech
+1) Difference between a process and a thread
+2) How do processes communicate
+3) How do threads communicate
+4) Difference between latency and throughput
+

@@ -41,3 +41,18 @@ class Solution:
                 stack.append((current_depth + 1, root.right))
 
         return depth
+
+
+    def maxDepth_with_recursion(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+        if not root:
+            return 0
+        left = self.maxDepth_with_recursion(root.left)
+        right = self.maxDepth_with_recursion(root.right)
+
+        return max(left, right) + 1
+
+

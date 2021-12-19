@@ -99,3 +99,7 @@ if __name__ == "__main__":
         [0, 1, 0, 0, 0, 0, 1],
         [0, 1, 0, 0, 0, 0, 1],
     ]
+
+    new_bills, remainder = divmod(100, 100)
+    print(new_bills)
+    print(remainder)

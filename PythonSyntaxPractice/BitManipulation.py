@@ -35,6 +35,14 @@ print(f"thirty -> : {thirty}")
 print(f"five_or_thirty -> : {bin(five_xor_thirty)}")
 print(f"five_or_thirty -> : {five_xor_thirty}")
 
+print("\n")
+print("XOR Operator -> ^ to fip bits")
+flip_me = 0b101
+mask = 0b111
+print(f"flip_me -> : {flip_me}")
+print(f"mask -> : {mask}")
+print(f"5 flipped bits -> : {flip_me ^ mask}")
+print(f"Our expectation is 5 which is 101 flipped bits = 010 -> 2")
 
 print("\n")
 print("Bitshift left <<")
